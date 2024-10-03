@@ -1,0 +1,145 @@
+{
+  "developerFirstName": "Gagan",
+  "developerLastName": "Prasad",
+  "frontend": "Frontend",
+  "developer": "Developer",
+  "heroDescription": "My goal is to always deliver **scalable**, **maintainable**, and **clean code** for seamless user and developer experiences.",
+  "skills": {
+    "html": "HTML",
+    "css": "CSS",
+    "sass": "Sass",
+    "tailwind": "Tailwind",
+    "bootstrap": "Bootstrap",
+    "javascript": "JavaScript",
+    "typescript": "TypeScript",
+    "jquery": "jQuery",
+    "vue": "Vue",
+    "vuex": "Vuex",
+    "react": "React",
+    "redux": "Redux",
+    "openai": "OpenAI",
+    "liquid": "Liquid",
+    "shopify": "Shopify",
+    "nodejs": "Node.js",
+    "express": "Express",
+    "threejs": "Three.js",
+    "jest": "Jest",
+    "git": "Git",
+    "github": "GitHub",
+    "bitbucket": "Bitbucket",
+    "jenkins": "Jenkins",
+    "jira": "Jira",
+    "firebase": "Firebase",
+    "heroku": "Heroku",
+    "render": "Render",
+    "figma": "Figma",
+    "photoshop": "Photoshop",
+    "vite": "Vite",
+    "webpack": "Webpack",
+    "docker": "Docker"
+  },
+  "website": "Website",
+  "projects": "Projects",
+  "checkMoreProjects": "Check more projects",
+  "projectList": {
+    "aazol": {
+      "name": "Aazol",
+      "shortDescription": "An artisanal food brand offering traditional, sustainably sourced Maharashtrian delicacies online, blending health and taste."
+    },
+    "epigamia": {
+      "name": "Epigamia",
+      "shortDescription": "A food brand offering high-protein Greek yogurt and dairy-free products, promoting healthy, modern snacking."
+    },
+    "blackberrys": {
+      "name": "Blackberrys",
+      "shortDescription": "A premium menswear brand redefining sharp, stylish clothing with a modern edge for professionals and trendsetters."
+    },
+    "xyxx": {
+      "name": "XYXX",
+      "shortDescription": "A modern menswear brand specializing in comfortable, stylish, and sustainable innerwear that redefines everyday essentials."
+    },
+    "sound-scape": {
+      "name": "Soundscape",
+      "shortDescription": "A cutting-edge audio brand creating immersive sound experiences with innovative headphones and speakers for music lovers."
+    },
+    "ether-editor": {
+      "name": "Ether editor",
+      "shortDescription": "A powerful online text editor that enhances your writing experience with seamless collaboration, intuitive tools, and real-time editing."
+    },
+    "organic-nutrient": {
+      "name": "Organic Nutrient",
+      "shortDescription": "A vibrant platform to promote a healthy lifestyle through rich insights on various fruits, including nutritional benefits and seasonal availability."
+    }
+  },
+  "featuredProjects": {
+    "4700bc": {
+      "name": "4700BC",
+      "description1": "4700BC is a **premium popcorn brand** that artfully combines unique flavors with high-quality ingredients. I implemented a **user-friendly** interface featuring smooth navigation and an **integrated payment system**, ensuring a seamless shopping experience.",
+      "description2": "The project prioritized **performance optimization**, resulting in faster load times and improved user satisfaction. By addressing **responsive design** challenges, I ensured accessibility across devices, which successfully **increased user engagement** and sales during the launch phase."
+    },
+    "sustain-nature-nest": {
+      "name": "Sustain Nature Nest",
+      "description1": "Sustain Nature Nest is a dedicated platform for exploring **waste categories** and promoting eco-friendly practices. I concentrated on integrating OpenAI features to enable **AI-driven image** and **text searches**, allowing users to quickly find relevant information in **21 languages**.",
+      "description2": "By providing easy access to valuable resources, it fosters informed decision-making and encourages a collective effort toward a more **sustainable future**."
+    },
+    "advanced-automation": {
+      "name": "Automation for Modern MSPs",
+      "description1": "Advanced Automation is a **CRM solution** tailored for Managed Service Providers (MSPs), enhancing operational efficiency through integrated features like task scheduling, ticket management, and resource allocation. These capabilities **streamline service delivery**, ensuring optimal customer interactions and satisfaction.",
+      "description2": "Throughout the project, I collaborated with cross-functional teams to navigate challenges in integrating various functionalities while maintaining performance. By employing a **modular approach**, I created an intuitive platform that significantly **boosted productivity** and **revenue**, ultimately enhancing the overall user experience."
+    }
+  },
+  "aboutMe": "About me",
+  "aboutDescription1": "**Namaste!** I’m Gagan Prasad.",
+  "aboutDescription2": "A passionate **frontend developer** from India, with over **{{years}} years** of global experience.",
+  "aboutDescription3": "I deliver code that is",
+  "scalable": "scalable.",
+  "responsive": "responsive.",
+  "maintainable": "maintainable.",
+  "efficient": "efficient.",
+  "robust": "robust.",
+  "aboutDescription4": "By applying a **modular approach** and leveraging **web performance optimization techniques** for the best developer and user experience.",
+  "beyondWork": "Beyond work",
+  "beyondWorkDescription1": "I’m proud to be ranked **11th globally** on **CSSBattle**, where I solve challenges with creativity and precision.",
+  "beyondWorkDescription2": " Enjoy **solving puzzles** like the Rubik’s cube, 2x2, Pyraminx, and more—able to solve a Rubik’s cube in under **15 seconds**.",
+  "downloadResume": "Download resume",
+  "experience": "Experience",
+  "experiences": {
+    "acronis": {
+      "name": "Acronis",
+      "designation": "Software Developer",
+      "experience": "December 2021 - Present",
+      "location": "Sofia, Bulgaria",
+      "description1": "**Acronis** is a leading global provider of **cyber protection solutions**, dedicated to ensuring **data security** and **recovery** for businesses worldwide.",
+      "description2": "As a **Software Developer**, I play a crucial role in this mission by delivering **modular** and **scalable** code. As part of Acronis's global **R&D team**, I have developed **CRM system solutions**, improved the **UI kit** and **UI constructor**, and designed **task management tools**. Additionally, I’ve implemented **AI-driven solutions** that streamline project management and improve productivity."
+    },
+    "marmeto": {
+      "name": "Marmeto",
+      "designation": "Frontend Developer",
+      "experience": "August 2020 - August 2021",
+      "location": "Bangalore, India",
+      "description1": "**Marmeto** is an an **e-commerce solutions provider** specializing in building **custom Shopify experiences**, I focused on building **custom solutions** and **components** for e-commerce stores. This involved developing Shopify scripts for **checkout discounts** and **payment methods**, boosting **conversion rates**, and building a **PIN code checker** to reduce cart abandonment.",
+      "description2": "Alongside **optimizing web performance**, implemented **metafield-based tag filtering** to boost product visibility, and integrated **third-party apps** for customer reviews, chat support, and social media, enhancing overall store functionality, user engagement, and **increasing revenue**"
+    },
+    "temairazu": {
+      "name": "Temairazu",
+      "designation": "Web Engineer Intern",
+      "experience": "September 2019 - January 2020",
+      "location": "Shibuya, Japan",
+      "description1": "**Temairazu** specializes in **hotel channel management** and digital solutions for the **hospitality industry**, enhancing user experience and **operational efficiency** for hotels. ",
+      "description2": "As a Web Engineer Intern, I contributed to the **redesign** of their website, focusing on improving user engagement. I integrated RESTful APIs for **real-time newsfeeds** with **multilingual support**, enhancing user interaction and accessibility."
+    },
+    "marmeto-01": {
+      "name": "Marmeto",
+      "designation": "Frontend Developer Intern",
+      "experience": "May 2018 - July 2018",
+      "location": "Bangalore, India",
+      "description1": "**Marmeto** is an innovative **e-commerce solutions provider** that specializes in enhancing **online presence** for businesses. They offer tailored solutions for **Shopify stores**, helping clients boost **conversion rates** and improve user experiences through **customized functionalities**.",
+      "description2": "As a Frontend Developer Intern, I developed **custom UI components** to meet the unique needs of various e-commerce stores. Collaborating with the **development**, **design**, and **testing teams**, I ensured seamless integration of these components."
+    }
+  },
+  "connectWithMe": "Connect with me",
+  "cssBattle": "CSSBattle",
+  "linkedIn": "LinkedIn",
+  "gitHub": "GitHub",
+  "email": "Email"
+}
