@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# Portfolio 2024 - [Gagan Prasad](https://meetgaganprasad.web.app/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Welcome to my portfolio! This website showcases my work as a Frontend Developer, demonstrating my skills and experience in creating scalable, maintainable, and responsive web applications. The portfolio includes a collection of projects, my professional background, and a demonstration of my technical expertise using modern technologies.
 
-In the project directory, you can run:
+## Tech Stack
 
-### `npm start`
+- **React**: For building reusable components and managing the UI efficiently.
+- **TypeScript**: Ensures type safety and enhances code maintainability.
+- **Tailwind CSS**: Provides a utility-first approach for rapid UI development.
+- **Three.js**: Used to create interactive 3D visuals, enhancing the site's engagement.
+- **Firebase**: Used for hosting the portfolio.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **Skills Slider**: A dynamic display of my key technical skills, built using Embla Carousel.
+- **Projects Section**: A detailed showcase of my major projects with descriptions and visuals.
+- **3D Visuals**: Interactive 3D elements created using Three.js to enrich the user experience.
+- **Language Support**: Multi-language support powered by a custom language selector with session storage.
 
-### `npm test`
+## How to Run
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Clone the repository:
 
-### `npm run build`
+```console
+git clone https://github.com/meetgaganprasad/portfolio.git
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Navigate to the project directory:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```console
+cd portfolio
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Install the dependencies:
 
-### `npm run eject`
+```console
+npm install
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Run the development server:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```console
+npm start
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+The website will be live at `http://localhost:3000`.
