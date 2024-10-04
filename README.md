@@ -9,14 +9,14 @@ Welcome to my portfolio! This website showcases my work as a Frontend Developer,
 - **React**: For building reusable components and managing the UI efficiently.
 - **TypeScript**: Ensures type safety and enhances code maintainability.
 - **Tailwind CSS**: Provides a utility-first approach for rapid UI development.
-- **Three.js**: Used to create interactive 3D visuals, enhancing the site's engagement.
+- **Three.js** & **Aceternity UI**: Used to create interactive 3D visuals, enhancing the site's engagement.
 - **Firebase**: Used for hosting the portfolio.
 
 ## Features
 
 - **Skills Slider**: A dynamic display of my key technical skills, built using Embla Carousel.
 - **Projects Section**: A detailed showcase of my major projects with descriptions and visuals.
-- **3D Visuals**: Interactive 3D elements created using Three.js to enrich the user experience.
+- **3D Visuals**: Interactive 3D elements created using Three.js and styled with Aceternity UI to ensure a consistent and engaging user experience.
 - **Language Support**: Multi-language support powered by a custom language selector with session storage.
 
 ## How to Run
