@@ -10,7 +10,7 @@ export const Projects: React.FC = () => {
   const { t } = useTranslation();
   return (
     <TracingBeam>
-      <div className="relative my-16 md:my-20">
+      <div className="relative my-16 md:mb-20 md:mt-24">
         <h1 className="font-fira font-bold text-6xl sm:text-7xl md:text-[80px] text-center md:text-left mb-28 md:mb-20">
           {t("projects")}
         </h1>
