@@ -17,7 +17,10 @@ export const Experience: React.FC = () => {
   const { t } = useTranslation();
 
   return (
-    <div className="relative w-full flex flex-col items-center justify-center mb-16 md:mb-20 ">
+    <section
+      id="experience"
+      className="relative w-full flex flex-col items-center justify-center mb-16 md:mb-20 "
+    >
       <h1 className="font-fira font-bold text-6xl sm:text-7xl md:text-[80px] self-center md:self-start mb-12 md:mb-20">
         {t("experience")}
       </h1>
@@ -71,6 +74,6 @@ export const Experience: React.FC = () => {
           })}
         </div>
       </BackgroundBeamsWithCollision>
-    </div>
+    </section>
   );
 };
