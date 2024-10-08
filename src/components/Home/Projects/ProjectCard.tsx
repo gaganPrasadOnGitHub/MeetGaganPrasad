@@ -52,7 +52,7 @@ export const ProjectCard: React.FC<ProjectCardProps> = ({
               const skillItem = skillsData.find((item) => item.name === skill);
               return skillItem ? (
                 <small
-                  className="text-[#a6a6a6] flex items-center justify-end gap-2 border border-white/[0.1] rounded-md py-2 px-6"
+                  className="text-[#a6a6a6] flex items-center justify-end gap-2 border border-white/[0.1] rounded-sm py-2 px-6"
                   key={index}
                 >
                   {skillItem.icon}

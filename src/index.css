@@ -5,20 +5,29 @@
 
 @layer base {
   :root {
+    --border: 220, 20%, 20%;
+    --input: 220, 15%, 25%;
+    --ring: 220, 20%, 50%;
+    --background: 220, 10%, 10%;
+    --foreground: 0, 0%, 100%;
+    --primary: 240, 80%, 50%;
+    --primary-foreground: 0, 0%, 100%;
+    --secondary: 120, 70%, 50%;
+    --secondary-foreground: 0, 0%, 100%;
+    --destructive: 0, 70%, 50%;
+    --destructive-foreground: 0, 0%, 100%;
+    --muted: 0, 0%, 40%;
+    --muted-foreground: 0, 0%, 90%;
+    --accent: 60, 80%, 50%;
+    --accent-foreground: 0, 0%, 100%;
+    --popover: 0, 0%, 15%;
+    --popover-foreground: 0, 0%, 100%;
+    --card: 0, 0%, 20%;
+    --card-foreground: 0, 0%, 100%;
+    --radius: 12px;
     --bg-line: #3f3f3f;
   }
-}
-@layer utilities {
-  .no-scrollbar::-webkit-scrollbar {
-    display: none;
-  }
-  .no-scrollbar {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-}
 
-@layer base {
   * {
     @apply m-0 p-0 border-border no-scrollbar;
   }
@@ -86,5 +95,15 @@
   .backdrop-blur-1 {
     backdrop-filter: blur(1px);
     -webkit-backdrop-filter: blur(1px);
+  }
+}
+
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
   }
 }
