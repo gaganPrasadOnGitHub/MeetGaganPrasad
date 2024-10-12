@@ -1,4 +1,4 @@
-# Portfolio 2024 - [Gagan Prasad](https://meetgaganprasad.web.app/)
+# Portfolio - [Gagan Prasad](https://meetgaganprasad.web.app/)
 
 ## Overview
 
