@@ -29,7 +29,7 @@
   }
 
   * {
-    @apply m-0 p-0 border-border no-scrollbar;
+    @apply m-0 p-0 border-border no-scrollbar scroll-smooth;
   }
 
   body {

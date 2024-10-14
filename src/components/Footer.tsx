@@ -29,9 +29,9 @@ export const Footer: React.FC = () => {
         </div>
       </div>
       <div className="flex flex-col items-center justify-center md:self-end mb-6 md:mb-0 ">
-        <Link to="#about" className="font-bold text-xl mb-2 md:mb-4">
+        <a href="#about" className="font-bold text-xl mb-2 md:mb-4">
           <h2>... /{t("connectWithMe")} ...</h2>
-        </Link>
+        </a>
         <SocialConnect />
       </div>
     </footer>
